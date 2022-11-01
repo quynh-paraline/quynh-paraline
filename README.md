@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quynhpl
+- 👋 Hi, I’m @quynh-paraline
 - 👀 I’m Senior PHP developer
 - 🌱 I’m currently web team leader at Paraline company
 
